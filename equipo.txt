@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Linea PC B" 
+=======
+"linea PC A"
+>>>>>>> 5d2ef09d83c5d0d9bb89c812dfa2e37f76b590cf
